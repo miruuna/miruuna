@@ -1,6 +1,6 @@
 ### Hi 👋
 
-- 🔭 I’m currently working on: understanding how the brain works using near infra-red spectroscopy data
+- 🔭 I’m currently working on: Identifying alternatives to antibiotics using Molecular Dinamics and Machine Learning
 - 🌱 I’m currently learning: ML
 - 📫 How to reach me: https://twitter.com/MirunaSerian
 - 😄 Pronouns: she/her
